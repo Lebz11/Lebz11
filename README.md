@@ -18,7 +18,7 @@ I am currently a student in Spain, enthusiast in all the world of the data, im g
 - 🌱 I’m currently learning ...
   - Tableau
   - JavaScript
-  - -Java
+  - Java
   - Make me better in Python
   - aws
 
